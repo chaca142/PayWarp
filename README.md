@@ -15,7 +15,7 @@ OP用コマンド
 
 pw.ymlの内容
 
-Pay: 300    ここを変えればワープに使う値段を変えれます ゲーム内の/pw paysetと同じ 変えた後は /reload をしてください
+<pre>Pay: 300    ここを変えればワープに使う値段を変えれます ゲーム内の/pw paysetと同じ 変えた後は /reload をしてください
 Plugin: EconomyAPI    ここは鯖が使ってるお金のプラグインですここを変えることで別のお金プラグインを使うことができます
                       現在対応してるプラグイン
                       EconomyAPI
@@ -25,6 +25,6 @@ Plugin: EconomyAPI    ここは鯖が使ってるお金のプラグインです�
                       MixCoinSystem
                       もしかしたら対応できてないものもあるかもしれません
                       対応していなかったら
-                      MCBEForumの議論に書いてください
+                      MCBEForumの議論に書いてください</pre>
 
 License : GNU GPLv3
