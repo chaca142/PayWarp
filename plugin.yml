@@ -1,8 +1,8 @@
 name: PayWarp
 main: chaca142\PW
-version: 2.0.0
+version: 3.0.0
 load: POSTWORLD
-api: 3.7.0
+api: 3.11.6
 description: お金を払ってワープ
 author: chaca142
 website: lily112.html.xdomain.com
